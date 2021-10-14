@@ -103,13 +103,14 @@ heading {
 
 papertitle {
     font-family: Montserrat,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 14px;
-    font-weight: 600
+    font-size: 15px;
+    font-weight: 600;
+	line-height: 1.5;
 }
 paperbody {
     font-family: Montserrat,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 14px;
-    line-height: 1.2;
+    font-size: 15px;
+    line-height: 1.5;
 }
 name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
